@@ -1,2 +1,8 @@
-# portfolio_website
-A dynamic portfolio website built with React, CSS, and HTML, showcasing projects, skills, and experience in software development. The responsive design ensures seamless viewing across devices, highlighting proficiency in front-end technologies and delivering a clean, modern user experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
