@@ -1,7 +1,7 @@
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/X-Logo.png";
-import project6 from "../assets/projects/project6.png"
+import project6 from "../assets/projects/project6.png";
 
 export const HERO_CONTENT = `My passion is leveraging technology to create scalable, effective solutions. I work as a software developer. I'm a final-year B.Tech student studying computer science, and I've worked with HTML, CSS, MySQL, Java, Python, React, and Flask, among other programming languages and frameworks. Advanced Design and Analysis of Algorithms (ADA) and Data Structures and Algorithms (DSA) round out my skill set. My objective is to use my knowledge to develop creative solutions that produce outstanding user experiences and stimulate corporate growth.`;
 
@@ -16,7 +16,7 @@ export const EXPERIENCES = [
     description: "A US IT Recruiter is responsible for sourcing, screening, and hiring technical talent for US-based clients. They collaborate with hiring managers to understand staffing needs and utilize various tools and platforms to identify and engage with top candidates. The role requires a deep understanding of technical skills, visa processes, and familiarity with US recruitment practices.",
     technologies: ["Monster", "Outlook", "Stack Overflow", "Power BI", "LeetCode"],
   },
-]
+];
 
 export const PROJECTS = [
   {
